@@ -7,7 +7,7 @@ This is how we imagine the tool in a more refined version:
 
 ### Run the Prototype
 1. `cd path/to/echoes`
-2. `python -m SimpleHTTPServer 8008`
+2. `python -m SimpleHTTPServer 8008` (if not working try with `python -m http.server 8008`)
 3. visit `localhost:8008` with your web browser.
 
 The prototype has been tested in Chrome and Safari.
