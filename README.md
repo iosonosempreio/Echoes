@@ -3,7 +3,7 @@ This is a raw prototype for a collation tool envisioned during the Visualization
 
 This is how we imagine the tool in a more refined version:
 
-![alt text](https://raw.githubusercontent.com/iosonosempreio/Echoes/master/preview.png=250 "Preview" )
+<img src="https://raw.githubusercontent.com/iosonosempreio/Echoes/master/preview.png" height="400"/>
 
 ### Run the Prototype
 1. `cd path/to/echoes`
