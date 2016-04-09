@@ -1,7 +1,7 @@
 # Echoes
 This is a raw prototype for a collation tool envisioned during the Visualization Meeting held by Cost Action IS1310 Reassembling the Republic of Letters (Como, 4>8/4/2016).
 
-This is how we imagine the tool in a more refined version:
+This is how we imagine the tool in a bit more refined version:
 
 <img src="https://raw.githubusercontent.com/iosonosempreio/Echoes/master/preview.png" height="400"/>
 
