@@ -1,8 +1,9 @@
 # Echoes
 This is a raw prototype for a collation tool envisioned during the Visualization Meeting held by Cost Action IS1310 Reassembling the Republic of Letters (Como, 4>8/4/2016).
 
-This is how we imagine the tool in a more refined version: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Preview")
+This is how we imagine the tool in a more refined version:
+
+![alt text](https://raw.githubusercontent.com/iosonosempreio/Echoes/master/preview.png=250 "Preview" )
 
 ### Run the Prototype
 1. `cd path/to/echoes`
